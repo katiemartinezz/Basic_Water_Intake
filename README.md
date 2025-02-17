@@ -3,3 +3,7 @@ This is a basic model that predicts the recommended water intake in liters based
 
 # How to Run
 To see this project, download the file, open it in platforms such as Google CoLab. Click cells to see results.
+
+Or copy and paste link below to open the notebook in Google Colab:
+  https://colab.research.google.com/github/katiemartinezz/Basic_water_intake/blob/main/CECS_457_WaterIntake.ipynb
+
